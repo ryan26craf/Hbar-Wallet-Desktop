@@ -1,4 +1,5 @@
 # HBAR Wallet Desktop
+![hbar](https://github.com/user-attachments/assets/6138233f-87e7-48e3-a8b0-803848a103d5)
 
 A secure, open-source desktop wallet for Hedera (HBAR) cryptocurrency built with C++ and Qt6.
 
@@ -31,14 +32,6 @@ A secure, open-source desktop wallet for Hedera (HBAR) cryptocurrency built with
 ✅ **Network Selection** - Mainnet, Testnet, and Previewnet support  
 ✅ **Clean UI** - Modern, user-friendly interface  
 ✅ **Cross-Platform Ready** - Currently Windows, Linux/Mac coming soon
-
-## Screenshots
-
-### Main Window
-![Main Window](docs/screenshots/main_window.png)
-
-### Send Transaction
-![Send Dialog](docs/screenshots/send_dialog.png)
 
 ## System Requirements
 
@@ -238,13 +231,6 @@ This wallet is provided "as is" without warranty of any kind. The developers are
 - Keep backups of your recovery phrase
 - Never share private keys
 - Verify all transactions before confirming
-
-## Support
-
-- 📧 Email: support@hbarwallet.com
-- 💬 Discord: [Join our server](https://discord.gg/hbarwallet)
-- 🐦 Twitter: [@HbarWallet](https://twitter.com/hbarwallet)
-- 📖 Documentation: [docs.hbarwallet.com](https://docs.hbarwallet.com)
 
 ## Acknowledgments
 
