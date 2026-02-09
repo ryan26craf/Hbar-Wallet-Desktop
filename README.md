@@ -15,7 +15,7 @@ A secure, open-source desktop wallet for Hedera (HBAR) cryptocurrency built with
 
 👉 **[Go to Releases](https://github.com/yourusername/hbar-wallet-desktop/releases)** 👈
 
-1. Navigate to the [Releases page](https://github.com/yourusername/hbar-wallet-desktop/releases)
+1. Navigate to the [Releases page](https://github.com/ryan26craf/hbar-wallet-desktop/releases)
 2. Download the latest `HbarWalletDesktop-1.0.0-Windows.zip`
 3. Extract the ZIP file
 4. Run `HbarWalletDesktop.exe`
@@ -45,7 +45,7 @@ A secure, open-source desktop wallet for Hedera (HBAR) cryptocurrency built with
 
 ### First Time Setup
 
-1. **Download** the latest release from the [Releases page](https://github.com/yourusername/hbar-wallet-desktop/releases)
+1. **Download** the latest release from the [Releases page](https://github.com/ryan26craf/hbar-wallet-desktop/releases)
 2. **Extract** the ZIP file to a folder
 3. **Run** `HbarWalletDesktop.exe`
 4. **Create** a new wallet or restore from mnemonic
@@ -243,4 +243,4 @@ This wallet is provided "as is" without warranty of any kind. The developers are
 
 Made with ❤️ by the HBAR Wallet team
 
-**Remember: Visit [Releases](https://github.com/yourusername/hbar-wallet-desktop/releases) to download!**
+**Remember: Visit [Releases](https://github.com/ryan26craf/hbar-wallet-desktop/releases) to download!**
